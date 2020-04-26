@@ -1,14 +1,14 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
+name: Noteflix
+title: Noteflix | Just Noteflix and read.
+description: Noteflix is originally based on Jekflix by Thiago 
 tags:
   - blog
   - template
   - jekyll
   - theme
   - netlify
-email: youremail@xyz.com
+email: sigidpam@outlook.com
 disqus_username: disqus_username
 show_hero: true
 menu:
@@ -18,18 +18,19 @@ menu:
     url: /about
   - title: Contact
     url: /contact
-  - title: Feed
-    url: /feed.xml
+#  - title: Feed
+#    url: /feed.xml
 
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+github_username: sigidpam
+#facebook_username: facebook_username
+twitter_username: sigidpam
+instagram_username: sigidpam
+linkedin_username: sigid-pamungkas
+youtube_username: sigidipap
+#medium_username: medium_username
 
 
 # Posts Settings
